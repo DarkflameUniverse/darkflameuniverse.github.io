@@ -1,4 +1,5 @@
 ---
+permalink: /
 title: This is where your story begins
 layout: default
 ---
