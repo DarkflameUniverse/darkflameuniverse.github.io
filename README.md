@@ -24,7 +24,10 @@ We never expected to see the amount of attention and support that the game has g
     
 *This is possible because of all of you. Thank  you.*  
 The community, all developers within the community and past/present from our team, the original game developers who've thrown encouraging words and The LEGO Group for caring about fan projects.
-More information will be provided when we get closer to releasing our server's source, but in the meantime; this isn't the end, Explorers.  
+
+Head over to <https://github.com/DarkflameUniverse/DarkflameServer> to set up a server for your friends &amp; family.
+
+This isn't the end, Explorers.  
 We'll talk again soon and can't wait to see more players enjoying LEGO Universe again!
 
 <br style="margin-bottom: 10px;">
