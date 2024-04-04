@@ -10,7 +10,7 @@ layout: default
 With LEGO Universe's official closure in 2012, we and many others felt the game was taken too soon.  
 This game was responsible for so many friendships, memories and amazing LEGO builds; so we set out to bring it back.  
 
-In 2013, Darkflame Universe started as a project between Gie Vanommeslaeghe and Neal Spellman, but grew as more developers joined the community. 
+In 2013, Darkflame Universe started as a project between Gie Vanommeslaeghe and Neal Spellman, but grew as more developers joined the community.  
 What once was a small Skype group of old LU players became a thriving community on Discord, our own forums and Twitter.  
 In 2021, we made the tough decision to open-source our server software due to the legal challenges of hosting a public server and the many licenses needed to distribute clients.  
 
@@ -25,16 +25,16 @@ While we have no announcements to share at this time, we hope you'll continue to
 *Q: I see an advertisement for an official/public server; should I play on this?*  
 A: There are no "official" LEGO Universe servers. The Darkflame Universe team does not endorse or recommend any servers that are open to the public. We recommend users either host their own server, as we discuss below, or join a private server hosted by friends/family.
 
-*Q: Where do I get your server software so I can play with my friends &amp; family?*
+*Q: Where do I get your server software so I can play with my friends &amp; family?*  
 A: Our server software is available on [our official GitHub, DarkflameUniverse/DarkflameServer](https://github.com/DarkflameUniverse/DarkflameServer) and the setup process has been vastly improved since our initial release. We recommend [HailStorm32's setup guide](https://gist.github.com/HailStorm32/169df65a47a104199b5cc57d10fa57de) if using a Windows machine. If you still have questions, please utilize [our GitHub's discussion page](https://github.com/DarkflameUniverse/DarkflameServer/discussions/categories/q-a).
 
 *Q: Where do I get a LEGO Universe client?*  
 A: Unfortunately, we cannot provide a LEGO Universe client or offer any assistance here due to not owning the rights to the game client. If you played LEGO Universe when it was live and patched up to the final version, you can use that client.
 
-*Q: Can I use a LEGO Universe CD to play the game?*
+*Q: Can I use a LEGO Universe CD to play the game?*  
 A: The CD client cannot be used as it does not install the final version of the game that our server needs.
 
-*Q: How can I report a server or user that is misusing your software?*
+*Q: How can I report a server or user that is misusing your software?*  
 A: If you find a server or user that is charging money for in-game rewards/any other benefit, disabling moderation/allowing inappropriate content or doing illegal activity, please report this to The LEGO Group using their [Compliance Line](https://www.lego.com/compliance-line). Please include as much information as possible and warn others to stay away from it if you see talk online about it.
 
 This isn't the end of the Darkflame Team, Explorers.  
