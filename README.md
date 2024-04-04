@@ -35,7 +35,7 @@ A: Unfortunately, we cannot provide a LEGO Universe client or offer any assistan
 A: The CD client cannot be used as it does not install the final version of the game that our server needs.
 
 *Q: How can I report a server or user that is misusing your software?*
-A: If you find a server or user that is charging money for in-game rewards/any other benefit, disabling moderation/allowing inappropriate content or doing illegal activity, please report this to The LEGO Group using their [Compliance Line](https://www.lego.com/da-dk/compliance-line). Please include as much information as possible and warn others to stay away from it if you see talk online about it.
+A: If you find a server or user that is charging money for in-game rewards/any other benefit, disabling moderation/allowing inappropriate content or doing illegal activity, please report this to The LEGO Group using their [Compliance Line](https://www.lego.com/compliance-line). Please include as much information as possible and warn others to stay away from it if you see talk online about it.
 
 This isn't the end of the Darkflame Team, Explorers.  
 LEGO Universe will live on forever thanks to our community, contributors and dedicated development team.
