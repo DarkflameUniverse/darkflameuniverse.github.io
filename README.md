@@ -23,10 +23,10 @@ While we have no announcements to share at this time, we hope you'll continue to
 
 **Frequently Asked Questions**   
 *Q: I see an advertisement for an official/public server; should I play on this?*  
-A: There are no "official" LEGO Universe servers. The Darkflame Universe team does not endorse or recommend any servers that are open to the public. We've made great strides in improving the setup process and if you still have questions, please utilize [our GitHub's discussion page](https://github.com/DarkflameUniverse/DarkflameServer/discussions/categories/q-a).
+A: There are no "official" LEGO Universe servers. The Darkflame Universe team does not endorse or recommend any servers that are open to the public. We recommend users either host their own server, as we discuss below, or join a private server hosted by friends/family.
 
 *Q: Where do I get your server software so I can play with my friends &amp; family?*
-A: Our server software is available on [our official GitHub, DarkflameUniverse/DarkflameServer](https://github.com/DarkflameUniverse/DarkflameServer). We recommend [HailStorm32's setup guide](https://gist.github.com/HailStorm32/169df65a47a104199b5cc57d10fa57de) if using a Windows machine.
+A: Our server software is available on [our official GitHub, DarkflameUniverse/DarkflameServer](https://github.com/DarkflameUniverse/DarkflameServer) and the setup process has been vastly improved since our initial release. We recommend [HailStorm32's setup guide](https://gist.github.com/HailStorm32/169df65a47a104199b5cc57d10fa57de) if using a Windows machine. If you still have questions, please utilize [our GitHub's discussion page](https://github.com/DarkflameUniverse/DarkflameServer/discussions/categories/q-a).
 
 *Q: Where do I get a LEGO Universe client?*  
 A: Unfortunately, we cannot provide a LEGO Universe client or offer any assistance here due to not owning the rights to the game client. If you played LEGO Universe when it was live and patched up to the final version, you can use that client.
