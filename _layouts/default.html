@@ -24,6 +24,18 @@
             margin-bottom: 24px;
         }
 
+        dl.faq > dt {
+            font-style: italic;
+        }
+        
+        dl.faq > dt::before {
+            content: "Q: ";
+        }
+        
+        dl.faq > dd > p:first-of-type::before {
+            content: "A: ";
+        }
+
         .logo {
             width: 9vw;
         }
