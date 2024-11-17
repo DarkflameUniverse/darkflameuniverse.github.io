@@ -17,13 +17,24 @@
 
         h2 {
             text-align: center;
+            margin-top: 15px;
             margin-bottom: 48px;
+            letter-spacing: 0.1rem;
+            font-size: 2rem;
         }
 
         h3, p {
             margin-bottom: 24px;
         }
 
+        h3 {
+            letter-spacing: 0.07rem;
+        }
+
+        p {
+            letter-spacing: 0.02rem;
+        }
+        
         dl.faq > dt {
             font-style: italic;
         }
@@ -38,6 +49,10 @@
 
         .logo {
             width: 9vw;
+            background: white;
+            padding: 20px;
+            border-radius: 50%;
+            border: 2px solid;
         }
 
         @media screen and (max-width: 800px) {
@@ -79,6 +94,18 @@
             -moz-background-size: cover;
             -o-background-size: cover;
             background-size: cover;
+
+            position: fixed;
+            top: 0;
+            z-index: -2;
+        }
+
+        body > div:first-child > div:first-child {
+            background: #d1eaea8c;
+            padding: 20px;
+            border-radius: 25px;
+            backdrop-filter: blur(30px) contrast(0.9);
+            border: 1px solid #7baa7947;
         }
 
         b {
