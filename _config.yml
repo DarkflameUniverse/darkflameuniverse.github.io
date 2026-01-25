@@ -35,7 +35,10 @@ plugins:
   - jekyll-feed
 
 collections:
-  - faqs
+  faqs:
+  announcements:
+    output: true
+    permalink: /community/6-announcements/:slug
 
 # Exclude from processing.
 # The following items will not be processed, by default.
